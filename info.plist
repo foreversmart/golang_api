@@ -21,8 +21,6 @@
 				<false/>
 			</dict>
 		</array>
-		<key>3E554F3A-9D95-4D8B-9797-FDE6FDA14DCD</key>
-		<array/>
 	</dict>
 	<key>createdby</key>
 	<string>Vero Pepperrell</string>
@@ -37,33 +35,12 @@
 		<dict>
 			<key>config</key>
 			<dict>
-				<key>argumenttype</key>
-				<integer>0</integer>
-				<key>keyword</key>
-				<string>golang</string>
-				<key>subtext</key>
-				<string>Show '{query}' across the screen</string>
-				<key>text</key>
-				<string>golang api</string>
-				<key>withspace</key>
-				<true/>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.input.keyword</string>
-			<key>uid</key>
-			<string>3E554F3A-9D95-4D8B-9797-FDE6FDA14DCD</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
 				<key>alfredfiltersresults</key>
 				<false/>
 				<key>argumenttype</key>
 				<integer>0</integer>
 				<key>escaping</key>
-				<integer>100</integer>
+				<integer>101</integer>
 				<key>keyword</key>
 				<string>go</string>
 				<key>queuedelaycustom</key>
@@ -129,25 +106,14 @@ Type your keyword into Alfred, followed by your input text if needed, and you'll
 			<key>xpos</key>
 			<integer>60</integer>
 			<key>ypos</key>
-			<integer>290</integer>
-		</dict>
-		<key>3E554F3A-9D95-4D8B-9797-FDE6FDA14DCD</key>
-		<dict>
-			<key>colorindex</key>
-			<integer>4</integer>
-			<key>note</key>
-			<string>1. Add a keyword object by right-clicking the canvas and choosing Inputs &gt; Keyword. Set the keyword and title to show it in Alfred's results.</string>
-			<key>xpos</key>
-			<integer>50</integer>
-			<key>ypos</key>
-			<integer>50</integer>
+			<integer>60</integer>
 		</dict>
 		<key>71B01051-4BFB-44E4-A5E8-26E6E860A663</key>
 		<dict>
 			<key>xpos</key>
 			<integer>360</integer>
 			<key>ypos</key>
-			<integer>290</integer>
+			<integer>60</integer>
 		</dict>
 	</dict>
 	<key>version</key>
